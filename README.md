@@ -1,8 +1,8 @@
-# eMart E-Commerce Website
+# EMart
 
 <!-- ![eMart Logo](/path/to/logo.png) -->
 
-Welcome to the GitHub repository for eMart, an E-Commerce Website project built with Next.js and React.js. This platform utilizes MongoDB as the database, Prisma as the ORM, Stripe for the payment gateway, Algolia Instant Search for product searching, and Bootstrap as the CSS library. The website is hosted on Vercel.
+EMart is an efficient e-commerce website built with Next.js, React.js, MongoDB, Prisma, Stripe, and Algolia. 🛒✨ It offers features like sign-in/sign-up, product search, filtering, a shopping cart, checkout, and a secure payment gateway, ensuring a smooth and safe shopping experience for all users. 💳🔒
 
 ## Features
 
@@ -59,7 +59,7 @@ Check out the live demo of eMart at: [eMart Live Demo](https://mshop-seven.verce
 
 To get started with eMart, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/your-username/emart.git`
+1. Clone the repository: `git clone https://github.com/Salvelop07/EMart`
 2. Install dependencies: `npm install`
 3. Set up the environment variables:
 
